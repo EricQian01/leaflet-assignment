@@ -187,43 +187,43 @@ const Map = () => {
 
             <Marker position={[49.28608320275328, -123.12016114341185]} icon={icon2}>
                 <Popup>
-                    Burrard Station
+                Burrard Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.28341084781493, -123.116165688478]} icon={icon2}>
                 <Popup>
-                    Granville Station
+                Granville Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.27974945494635, -123.10981901731377]} icon={icon2}>
                 <Popup>
-                    Stadium - Chinatown Station
+                Stadium - Chinatown Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.27333997253812, -123.10036073080714]} icon={icon2}>
                 <Popup>
-                    Main Street - Science World Station
+                Main Street - Science World Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.26277700538363, -123.06913994245141]} icon={icon2}>
                 <Popup>
-                    Commercial - Broadway Station
+                Commercial - Broadway Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.24843925372727, -123.05589584430136]} icon={icon2}>
                 <Popup>
-                    Nanaimo Station
+                Nanaimo Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.24432134627083, -123.04538475964372]} icon={icon2}>
                 <Popup>
-                    29th Avenue Station
+                29th Avenue Station
                 </Popup>
             </Marker>
 
@@ -235,7 +235,7 @@ const Map = () => {
 
             <Marker position={[49.229905701735824, -123.01261888663056]} icon={icon2}>
                 <Popup>
-                    Patterson Station
+                Patterson Station
                 </Popup>
             </Marker>
 
@@ -247,55 +247,55 @@ const Map = () => {
 
             <Marker position={[49.2202002078422, -122.98839840012417]} icon={icon2}>
                 <Popup>
-                    Royal Oak Station
+                Royal Oak Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.212465553664494, -122.9591772308091]} icon={icon2}>
                 <Popup>
-                    Edmonds Station
+                Edmonds Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.20008974871182, -122.9489674001248]} icon={icon2}>
                 <Popup>
-                    22nd Street Station
+                22nd Street Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.2015711349061, -122.91262900197376]} icon={icon2}>
                 <Popup>
-                    New Westminster Station
+                New Westminster Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.20493692727262, -122.9061092731381]} icon={icon2}>
                 <Popup>
-                    Columbia Station
+                Columbia Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.20454785760014, -122.87431705964485]} icon={icon2}>
                 <Popup>
-                    Scott Road Station / Sapperton Station
+                Scott Road Station / Sapperton Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.19907152998553, -122.85064241546723]} icon={icon2}>
                 <Popup>
-                    Gateway Station / Braid Station
+                Gateway Station / Braid Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.18974196898185, -122.84798508848097]} icon={icon2}>
                 <Popup>
-                    Surrey Central Station / Lougheed Town Centre Station
+                Surrey Central Station / Lougheed Town Centre Station
                 </Popup>
             </Marker>
 
             <Marker position={[49.182983653865215, -122.84484557995276]} icon={icon2}>
                 <Popup>
-                    King George Station / Production Way - University Station
+                King George Station / Production Way - University Station
                 </Popup>
             </Marker>
 
